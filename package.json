@@ -1,0 +1,15 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "this is my second wechat app",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-static": "^1.2.5",
+    "gm": "^1.23.1",
+    "multer": "*",
+    "mysql": "*",
+    "request": "*",
+    "silly-datetime": "*",
+    "body-parser":"*"
+  }
+}
